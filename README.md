@@ -4,6 +4,7 @@
     - 개인 Github Page 만들기
       - html, css, Javascript... 사용해서 해보기
       - Javascript 공부하기
+      - https://www.w3schools.com/
   
     - Django 튜토리얼 (with Visual Studio Code)
       - https://code.visualstudio.com/docs/python/tutorial-django
