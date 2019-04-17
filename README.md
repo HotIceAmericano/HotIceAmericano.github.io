@@ -12,4 +12,4 @@
     - 노종현 : https://beatz4.github.io/Blog
     - 김민준 :
     - 박지웅 :
-    - 윤태원 :
+    - 윤태원 : https://hoticeamericano.github.io/HotIceLatte
