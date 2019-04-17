@@ -9,7 +9,7 @@
       - https://code.visualstudio.com/docs/python/tutorial-django
       <br>
   - <b>개인 Github URL </b>
-    - 노종현 : https://github.com/beatz4/Blog
+    - 노종현 : https://beatz4.github.io/Blog
     - 김민준 :
     - 박지웅 :
     - 윤태원 :
