@@ -7,4 +7,9 @@
   
     - Django 튜토리얼 (with Visual Studio Code)
       - https://code.visualstudio.com/docs/python/tutorial-django
-  
+      <br>
+  - <b>개인 Github URL </b>
+    - 노종현 : 
+    - 김민준 :
+    - 박지웅 :
+    - 윤태원 :
