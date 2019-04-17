@@ -7,6 +7,7 @@
       - 참고
         - https://www.w3schools.com/
         - https://www.youtube.com/user/egoing2
+        - 아이콘 : https://www.iconfinder.com/ 
   
     - Django 튜토리얼 (with Visual Studio Code)
       - https://code.visualstudio.com/docs/python/tutorial-django
