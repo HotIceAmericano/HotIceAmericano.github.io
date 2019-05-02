@@ -14,7 +14,7 @@
       <br>
   - <b>개인 Github URL </b>
     - 노종현 : https://beatz4.github.io/Blog
-    - 김민준 :
+    - 김민준 : https://polaris070.github.io/polaris/
     - 박지웅 :
     - 윤태원 : https://hoticeamericano.github.io/HotIceLatte
     - 이영현 : https://annhee.github.io/rulruri
