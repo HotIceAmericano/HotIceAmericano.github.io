@@ -14,7 +14,7 @@
   - Django 튜토리얼 (with Visual Studio Code)
     - https://code.visualstudio.com/docs/python/tutorial-django
       <br>
-
+    
 - <b>개인 Github URL </b>
   - 노종현 : https://beatz4.github.io/Blog
   - 김민준 : https://polaris070.github.io/polaris/
@@ -26,3 +26,9 @@
 
 - remote branch 관리
   - https://webisfree.com/2016-12-26/git-%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EB%B0%8F-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%82%AD%EC%A0%9C-%EC%B6%94%EA%B0%80-%EC%A0%9C%EA%B1%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EB%B0%A9%EB%B2%95 => 정리하기
+  - <b>Git 사용방법 정리중 </b>
+https://docs.google.com/document/d/1Ky3txttwaOAZbTFYWpWXUzKDbNlDvaKY5jy_Cm1KinA/edit
+  - <b>VSCode extension 참고 사항 </b>
+https://docs.google.com/document/d/1TJR_beJm7FbxeK5x8VPSm7i_wDIHBAZXLbCQtM2gGFQ/edit
+
+
