@@ -20,4 +20,4 @@
     - 이영현 : https://annhee.github.io/rulruri
 
   - <b>Git 사용방법 정리중 </b>
-https://drive.google.com/drive/folders/1aiGmj0DF37mzKqTaIhdvjaDqUZ4m0zDM?usp=sharing
+https://docs.google.com/document/d/1Ky3txttwaOAZbTFYWpWXUzKDbNlDvaKY5jy_Cm1KinA/edit
