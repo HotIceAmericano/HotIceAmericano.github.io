@@ -21,3 +21,6 @@
 
   - <b>Git 사용방법 정리중 </b>
 https://docs.google.com/document/d/1Ky3txttwaOAZbTFYWpWXUzKDbNlDvaKY5jy_Cm1KinA/edit
+
+  - <b>VSCode extension 참고 사항 </b>
+https://docs.google.com/document/d/1TJR_beJm7FbxeK5x8VPSm7i_wDIHBAZXLbCQtM2gGFQ/edit
