@@ -31,4 +31,6 @@ https://docs.google.com/document/d/1Ky3txttwaOAZbTFYWpWXUzKDbNlDvaKY5jy_Cm1KinA/
   - <b>VSCode extension 참고 사항 </b>
 https://docs.google.com/document/d/1TJR_beJm7FbxeK5x8VPSm7i_wDIHBAZXLbCQtM2gGFQ/edit
 
+# 2019-07-02 생활코딩
+-> 웹 호스팅까지 각자 강의 듣고 정리 파일 들고 올것
 
